@@ -33,4 +33,5 @@ Ultimately, I'd like to go in one of these two directions.
 or
 
 🎨Partake in red-teaming/pentesting with a team that utilizes social engineering
-But of course, 5 years from now, I might not even end up in cybersecurity, it's hard to foresee where one will end up in IT, so who knows?
+
+But of course, 5 years from now, I might end up somewhere entirely different than where I foresee myself, it's hard to foresee where one will end up in IT, so who knows?
