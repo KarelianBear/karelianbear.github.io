@@ -42,5 +42,4 @@ It was simply too much trouble moving my %user% path to somewhere else and doing
 
 I simply gave my computer a good ol' factory reset. Not having to worry about any UTF-8 encoding problems in the future feels damn good!
 
-
 Coming up "A cryptography writeup 2 millenia late" (ie. a test writeup)
