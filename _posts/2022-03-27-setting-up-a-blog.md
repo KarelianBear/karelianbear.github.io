@@ -9,7 +9,7 @@ categories: blog
 
 Hi, I'm Utku, an internet person located in Istanbul, Turkey.
 And lately, I've been contemplating different places to do blogging on. Then my mind went, "why not build it yourself while you're at it, your prospective employers might like it!" and here we are. 
-I locked down on GitHub Pages using Ruby and [Jekyll](https://jekyllrb.com/). The idea was planted in my head after hearing about it in one of Jack Rhysider's [Darknet Diaries](https://darknetdiaries.com/) episodes explaining how and why he uses Jekyll.
+I locked down on GitHub Pages using Ruby and [Jekyll](https://jekyllrb.com/). The idea was planted at the back of my head after hearing about it in one of Jack Rhysider's [Darknet Diaries](https://darknetdiaries.com/) episodes explaining how and why he uses Jekyll.
 
 ### The issue with themes
 Right off the bat, It's been quite challenging to get it working on my preferred theme, [Dinky](https://github.com/pages-themes/dinky). So we're stuck with the default theme [Minima](https://github.com/jekyll/minima),for now.
