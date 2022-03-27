@@ -10,10 +10,15 @@ Formerly working as an editor, I took the leap and took a break from working to 
 
 ### Without a particular goal in sight, I have been developing my skills on several ends to figure out what I like the most:
 ✅Networking: Because that’s where the magic happens 
+
 ✅Several programs and working environments 👇 
+
  ✔️Worked on identifying analyzing real malware through LetsDefend’s SOC analyst training environment 
+ 
  ✔️Utilized FireEye's Redline for forensics challenges 
+ 
  ✔️Kali Linux to dip my toes in Linux and participate in CTFs properly. 
+ 
 ✅OSINT: Coming from a journalism background and a lifelong history of researching stuff for no reason. It also makes you a power-Googler. 
 
 
