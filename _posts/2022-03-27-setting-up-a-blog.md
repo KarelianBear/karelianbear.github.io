@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 'Setting up a blog '
 date: '2022-03-27 02:06:07 +0300'
