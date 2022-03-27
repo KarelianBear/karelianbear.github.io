@@ -1,5 +1,9 @@
 ---
 published: false
+layout: post
+title: 'Setting up a blog '
+date: '2022-03-27 02:06:07 +0300'
+categories: blog
 ---
 ## Launching my personal blog
 
@@ -17,6 +21,7 @@ And there's even an option in your repository settings that promises to change y
 
 I got my current computer second-hand, it was configured by an IT guy at a publishing company in Istanbul. I immediately wanted to do a clean installation but due to tight deadlines at the time, postponed the whole ordeal indefinitely. I just changed the OS language to English kept using it after ensuring that it was not up to anything sketchy. But, there was one critical aspect aside from the funny-yet-eerie Turkilish event logs (will provide an example below)
 
+![turkilish-event-log.jpg]({{site.baseurl}}/_posts/turkilish-event-log.jpg)
 
 
 
