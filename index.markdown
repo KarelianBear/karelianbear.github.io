@@ -1,6 +1,14 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+published: true
 ---
+## Hi, I'm Utku, an IT person from somewhere
+This doesn't look like much but it's honest work. 
+##
+
+> We loved with a love that was more than love
+
+> We loved with a love that was more than love
+
+
+
