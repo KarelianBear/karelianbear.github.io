@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: KarelianBear's Domain
-email: 76523056+KarelianBear@users.noreply.github.com
+email: utku.kucukduner@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm Utku, an IT aficionado from somewhere. Hopefully this blog will help my marketability, it sure is quite a challenge setting it up!
+  I'm Utku, an internet person from Istanbul, TR.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://karelianbear.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: UtkuKdnr
