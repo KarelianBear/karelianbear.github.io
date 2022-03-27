@@ -15,7 +15,7 @@ The idea was planted at the back of my head after hearing about it in one of Jac
 ### The issue with themes
 Right off the bat, It's been quite challenging to get it working on my preferred theme, [Dinky](https://github.com/pages-themes/dinky). So we're stuck with the default theme [Minima](https://github.com/jekyll/minima),for now.
 
-I seriously thought it would be a simple process given that Jekyll is created by one of GitHub's co-founders and former-CEO, [Tom Preston-Werner](https://github.com/mojombo). ¯\_(ツ)_/¯
+I seriously thought it would be a simple process given that Jekyll is created by one of GitHub's co-founders and former-CEO, [Tom Preston-Werner](https://github.com/mojombo). 🤷
 
 And more so, there's even native support for Jekyll, option in your repository settings that promises to change your theme with a few clicks, but I couldn't get it to work. I will feel immeasurably dumb if it just decides to work one day... anyway, moving on. 
 
