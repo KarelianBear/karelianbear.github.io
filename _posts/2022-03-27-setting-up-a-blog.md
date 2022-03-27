@@ -23,12 +23,9 @@ And there's even an option in your repository settings that promises to change y
 Yup, nice and simple, my installer of choice, [RubyInstaller for Windows](https://rubyinstaller.org/) actually defaults to a space-free path "C:\Ruby31-x64" but I put a space before x64 for no reason at all during my initial installation, making it "C:\Ruby31 x64". Thankfully, [people in this post](https://github.com/jekyll/jekyll/issues/8523) knew what was going on. A clean installation of Ruby, Jekyll, and its gems solved this issue (and I later opted to do it in Linux anyway)
 
 ### Ruby does not like UTF-8
-I got my current computer second-hand, it was configured by an IT guy at a  publishing company in Istanbul. I immediately wanted to do a clean installation but due to the deadlines I was working with at the time, postponed the whole ordeal indefinitely. I just changed the OS language to English kept using it after ensuring that it was not up to anything sketchy. But, there was one critical aspect aside from the weird Turkilish event logs:
+I got my current computer second-hand, it was configured by an IT guy at a  publishing company in Istanbul. I immediately wanted to do a clean installation but due to the deadlines I was working with at the time, postponed the whole ordeal indefinitely. I just changed the OS language to English kept using it after ensuring that it was not up to anything sketchy. But, there was one critical aspect aside from the weird Turkilish event logs: The computer's name.
 
-![turkilish-event-log.jpg]({{site.baseurl}}/_posts/turkilish-event-log.jpg)
-_(will provide an example below once i fix this image issue, enjoy the broken image icon, when was the last time you've seen it huh?)_
-
-So anyway, the PC came with the the path username "MONSTER-GAMİNG". You see where this is going? Yes the big sore "İ", some programs did not like it,
+The PC came with the the path to %user% as "MONSTER-GAMİNG". You see where this is going? Yes the big sore "İ", some programs did not like it.
 Apart from "İ" the same would also apply to "ı, ş, Ş ğ, Ğ, ü, Ü, ö, Ö, ç, Ç".
 Thankfully, nothing I did with my computer caused a functionality breaking issue, some programs would not be able to process the path, so they opted to create their own folders, after a while I had: 
 - "MONSTER-GAMNG"
