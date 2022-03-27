@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 published: true
 ---
-## About me
 
 Formerly working as an editor, I took the leap and took a break from working to transition into the IT field; and, as such, I’m currently educating myself on the current technologies (notably, I studied the material for CompTIA A+, without taking the exam) and the networking/security side in particular.
 
